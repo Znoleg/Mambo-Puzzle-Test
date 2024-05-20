@@ -2,6 +2,8 @@
 
 I recommend studying the code from the "EntryPoint" script and moving on through function calls.
 
+Recommened game resolution: 1920x1080
+
 Unity editor version used: 2022.3.19f1
 
 Architectural solutions used:
